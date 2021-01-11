@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F830-B5AE
+
+ Directory of C:\gayathri\git-projects\firstproject
+
+11/01/2021  13:59    <DIR>          .
+11/01/2021  13:59    <DIR>          ..
+11/01/2021  13:59                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  832,355,508,224 bytes free
